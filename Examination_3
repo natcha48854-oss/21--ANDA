@@ -7,5 +7,9 @@
 # ===================================================
 
 # เขียนโค้ดต่อจากนี้
-score = int(input())
+score = int(input("คะแนน"))
+if score >= 50:
+print("pass")
+else:
+print("fail")
 
