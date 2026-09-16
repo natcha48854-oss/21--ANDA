@@ -6,6 +6,9 @@
 # ==========================================
 
 # เขียนโค้ดต่อจากนี้
-quantity = int(input())
+quantity = int(input("จำนวนสมุด: "))
+total = float(input(20*quality))
+if quanlity >= 5:
+total(quanlity - 10 )
 
 
